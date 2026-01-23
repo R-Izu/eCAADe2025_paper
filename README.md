@@ -1,8 +1,8 @@
 # Enhancing Augmented Reality with Virtual Shadow Rendering: Implementation on multiple real-world geometries through SLAM-based 3D modeling
 **[eCAADe 2025] 採録論文**
 
-Paper URL: [Paper]([https://papers.cumincad.org/cgi-bin/works/paper/ecaade2025_274])\
-Conference URL: [Conference](https://ecaade2025.metu.edu.tr/)
+Paper URL: [Paper](https://papers.cumincad.org/cgi-bin/works/paper/ecaade2025_274)\
+Conference URL: <a href="https://ecaade2025.metu.edu.tr/" target="_blank" rel="noopener noreferrer">eCAADe 2025 – eCAADe 2025 @ METU, Ankara, Türkiye</a>
 
 ## 📄 論文情報
 - **学会名**: eCAADe 2025 (Education and Research in Computer Aided Architectural Design in Europe)
