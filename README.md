@@ -8,6 +8,9 @@ Conference URL: <a href="https://ecaade2025.metu.edu.tr/" target="_blank" rel="n
 - **学会名**: eCAADe 2025 (Education and Research in Computer Aided Architectural Design in Europe)
 - **掲載元**: CuminCAD (Cumulative Index about Publications in Computer Aided Architectural Design)
 - **URL**: [https://papers.cumincad.org/cgi-bin/works/paper/ecaade2025_274](https://papers.cumincad.org/cgi-bin/works/paper/ecaade2025_274)
+- **Scopus EID**: [2-s2.0-105029261572](https://www.scopus.com/inward/record.uri?eid=2-s2.0-105029261572&partnerID=HmrkZgff&rel=3.0.0)
+- **ISBN**: 978-949120740-2
+- **ページ**: 561-570
 
 ## 📌 概要 (Abstract)
 本リポジトリは、eCAADe2025 学会にて発表した研究成果をまとめたポートフォリオです。
